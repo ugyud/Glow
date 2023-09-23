@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "123363731732",
+    "project_id": "glow-ecommerce",
+    "storage_bucket": "glow-ecommerce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123363731732:android:e19774843791cb3602ba01",
+        "android_client_info": {
+          "package_name": "com.dozkan.glow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIMG0t_5bG2qeAhqsYViAJoIZ6KfiPWRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
